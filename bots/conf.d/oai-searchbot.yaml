@@ -1,9 +1,8 @@
 # OAI-SearchBot - OpenAI AI search assist crawler
-# https://platform.openai.com/docs/bots
-# JSON format: https://openai.com/oai-searchbot.json
+# https://developers.openai.com/api/docs/bots
 kind: AIAssist
 name: oai-searchbot
 parser: google
 ua: "OAI-SearchBot"
 urls:
-  - "https://openai.com/oai-searchbot.json"
+  - "https://openai.com/searchbot.json"
